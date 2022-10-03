@@ -1,5 +1,5 @@
 {
-  "name": "Pink_iPadd",
+  "name": "Pink_iPadddddd",
   "version": "1.0",
   "description": "Pink Anime Themee",
   "authors": [
@@ -152,8 +152,8 @@
     "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/849197721721241611/1026533182222385222/1258061.png",
-    "alpha": 1.0
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/849197721721241611/1026536685258952724/Untitled-1.png",
+    "alpha": 6.0
   }
 }
